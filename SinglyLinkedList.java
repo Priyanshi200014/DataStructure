@@ -2,6 +2,7 @@ import java.util.*;
 
 class LinkedList
 {
+	//Creating a ListNode
 	class Nodes  							
 	{
 		int data;
